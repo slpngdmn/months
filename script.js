@@ -1,4 +1,4 @@
-function calculateAge() {
+function calculate() {
   const monthsInput = document.getElementById("months").value;
 
   let Result = "";
